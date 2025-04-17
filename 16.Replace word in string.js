@@ -3,7 +3,7 @@ const str = 'Hi I am abhishek'
 
 const toReplace = 'abhishek'
 
-const find = RegExp(toReplace, 'gi')
+// const find = RegExp(toReplace, 'gi')
 
 const newWord = 'anuj'
 
