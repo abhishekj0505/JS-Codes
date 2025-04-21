@@ -17,9 +17,9 @@ for (let i = zeroIndex; i >= 0; i--) {
 console.log(arr); // [0, 0, 0, 1, 43, 6, 2, 67]
 
 
+
+
 // to right 
-
-
 const arr2 = [1, 0, 43, 6, 0, 2, 67, 0];
 let nonZeroIndex = 0;
 
